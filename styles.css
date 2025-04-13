@@ -27,6 +27,25 @@ body{
     border: 0.125rem solid #000;
   }
 
+.carousel {
+  display: flex ;
+  width: 100%;
+  margin: auto;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  border-radius: 3px;
+  object-fit: cover;
+  position: relative;
+  /*padding: 2px;*/
+
+}
+
+.carousel-caption h3{
+  font-family: 'Lobster Two';
+}
+
+
+
   /*
   .table {
     border-collapse: collapse !important;
