@@ -14,7 +14,7 @@ body{
 
 
   .container {
-    min-width: 992px !important;
+    min-width: 1000px !important;
     background-image: url('./imagenes/fondo-pastel.jpg');
   }
   
