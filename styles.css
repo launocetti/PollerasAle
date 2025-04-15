@@ -30,7 +30,7 @@ body{
 /*carrousel*/
 
 .container .carousel {
-    position: absolute;
+    position: center center;
     top: 50%;
     left: 50%;
     
