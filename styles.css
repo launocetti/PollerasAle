@@ -11,12 +11,6 @@ body{
     -webkit-tap-highlight-color: transparent;
   }
 
-#fondo
-{
-    background-color: linear-gradient(red, yellow, blue, green);                 
-    background-position: center center;
-}
-
   .container {
     min-width: 992px !important;
     background-image: url('./imagenes/fondo-pastel.jpg');
