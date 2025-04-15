@@ -13,7 +13,7 @@ body{
 
 #fondo
 {
-    background-image: url(./imagenes/fondo_madera_02.jpg);                 
+    background-color: linear-gradient(red, yellow, blue, green);                 
     background-position: center center;
 }
 
